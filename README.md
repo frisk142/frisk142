@@ -21,8 +21,9 @@
 <br>
 <br>
 <br>
-
-<img src=https://github.com/frisk142/frisk142/blob/main/asstes/Python.png width=300 height=200>
-<img src=https://github.com/frisk142/frisk142/blob/main/asstes/Vue.png width=300 height=200>
-<img src=https://github.com/frisk142/frisk142/blob/main/asstes/VSCode.png width=300 height=200>
-<img src=https://github.com/frisk142/frisk142/blob/main/asstes/teto.gif width=300>
+<p align="center">
+<img src=https://github.com/frisk142/frisk142/blob/main/assets/Python.png width=200 height=200>
+<img src=https://github.com/frisk142/frisk142/blob/main/assets/Vue.png width=200 height=200>
+<img src=https://github.com/frisk142/frisk142/blob/main/assets/VSCode.png width=200 height=200>
+<img src=https://github.com/frisk142/frisk142/blob/main/asseets/teto.gif width=200>
+</p>
