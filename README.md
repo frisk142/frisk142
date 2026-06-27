@@ -25,5 +25,5 @@
 <img src=https://github.com/frisk142/frisk142/blob/main/assets/Python.png width=200 height=200>
 <img src=https://github.com/frisk142/frisk142/blob/main/assets/Vue.png width=200 height=200>
 <img src=https://github.com/frisk142/frisk142/blob/main/assets/VSCode.png width=200 height=200>
-<img src=https://github.com/frisk142/frisk142/blob/main/asseets/teto.gif width=200>
+<img src=https://github.com/frisk142/frisk142/blob/main/assets/teto.gif width=200>
 </p>
