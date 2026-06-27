@@ -8,6 +8,9 @@
 
 >我们相信编程是可爱且有趣的，而不是总是严肃，而是能给大家带来欢乐的
 
+个人站点:www.frisk142.top
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
