@@ -11,6 +11,10 @@
 ## 我做的一些小东西
  - [xiao-fu-sama](https://github.com/frisk142/xiao_fu_sama): 一个基于deepseek的人工智能桌面宠物
 
+<br>
+<br>
+<br>
+
 <img src=https://github.com/frisk142/frisk142/blob/main/asstes/Python.png width=300 height=200>
 <img src=https://github.com/frisk142/frisk142/blob/main/asstes/Vue.png width=300 height=200>
 <img src=https://github.com/frisk142/frisk142/blob/main/asstes/VSCode.png width=300 height=200>
